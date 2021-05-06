@@ -1,11 +1,7 @@
 # Watson Studio on IBM Cloud Workshop    
     
-version 0.04, 2021.01.25    
-    
-This is an introductory Watson Studio on Cloud workshop created by Michal Kordyzon, IBM Poland (michal.kordyzon@pl.ibm.com).  
-This workshop contains materials used in Watson Studio tutorials presented [here](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy).    
-    
-This course is meant for professionals with no data science background and who are subject experts in their fields (like engineering, logistics, marketing, procurement, sales, law, production, and more).    
+  
+This course is meant for professionals or engineers or any kind with no data science background. The course was used by people from engineering, logistics, marketing, procurement, sales, law, production, and more.    
      
 ![w1-0](../images/w1-0.png)      
     
