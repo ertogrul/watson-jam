@@ -10,13 +10,21 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 * [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
 <br>
-<br>
 
+<img src="http://hack.quantumchallenge.pl/watson-jam/images/watson.gif" width="200" height="300" alt="opt"/>
 ![watson](/images/watson-for-everyone.png)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
 
@@ -32,5 +40,5 @@
 <br>
 <br>
 
-<img src="https://ertogrul.github.io/images/w5-3.gif" alt="bee"/>
+<img src="http://hack.quantumchallenge.pl/watson-jam/images/weheartit.gif" width="300" height="400" alt="opt"/>
 </p>
