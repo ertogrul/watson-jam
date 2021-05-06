@@ -5,7 +5,7 @@
 * [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
 
 <br>
-<img src="http://ertogrul.github.io/images/optimization.gif" width="200" height="300" alt="opt"/>
+<img src="http://ertogrul.github.io/images/watson.gif" width="200" height="300" alt="opt"/>
 
 <br>
 <br>
