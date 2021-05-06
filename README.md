@@ -6,8 +6,12 @@
 * [Decision Optimization for Watson Studio](1-DecisionOptimizationWorkshop/README.md)
 
 <br>
-<img src="https://ertogrul.github.io/watson-jam/images/optimization.gif" alt="opt"/>
+<img src="http://ertogrul.github.io/watson-jam/images/optimization.gif" alt="opt"/>
 </p>
+
+http://github.com/ertogrul/watson-jam/images
+http://ertogrul.github.io/watson-jam/images
+http://daattali.github.io/MyCoolProject
 
 * [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
 <br>
