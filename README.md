@@ -1,5 +1,5 @@
 ## Hello.
-## Do you want to know what's possible with Watson? Try one of the courses below :)
+## What is possible with Watson? Try one of the courses below :)
 <br>
 
 * [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   

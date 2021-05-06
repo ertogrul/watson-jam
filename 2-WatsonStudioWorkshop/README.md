@@ -4,14 +4,6 @@
 This course is meant for professionals or engineers or any kind with no data science background. The course was used by people from engineering, logistics, marketing, procurement, sales, law, production, and more.    
      
 ![w1-0](../images/w1-0.png)      
-<p align="center">
-
-<br>
-
-
-<img src="http://hack.quantumchallenge.pl/watson-jam/images/watsonlogo.png" width="300" height="400" alt="opt"/>
-
-
 
 
 ## Agenda    
