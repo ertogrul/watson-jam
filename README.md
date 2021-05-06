@@ -7,6 +7,9 @@
 <br>
 <img src="http://github.com/ertogrul/ertogrul.github.io/blob/master/images/optimization.gif" width="200" height="300" alt="opt"/>
 
+
+<img src="http://ertogrul.github.io/images/optimization.gif" width="200" height="300" alt="opt"/>
+
 <br>
 <br>
 <br>
