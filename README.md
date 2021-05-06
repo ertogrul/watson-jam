@@ -13,7 +13,7 @@ http://github.com/ertogrul/watson-jam/images
 http://ertogrul.github.io/watson-jam/images
 http://daattali.github.io/MyCoolProject
 http://hack.quantumchallenge.pl/watson-jam/
-
+123
 
 * [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
 <br>
