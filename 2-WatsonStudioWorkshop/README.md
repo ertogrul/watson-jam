@@ -24,5 +24,5 @@ This course is meant for professionals with no data science background and who a
 + Q&A    
   + [4-ExtraStuffOpenAI/README.md](4-ExtraStuffOpenAI/README.md)      
       
-![w1-0-1](../images/w1-0-1.png)    
+![w1-0-1](../images/w6-2.png)    
   
