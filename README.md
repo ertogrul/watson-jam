@@ -1,24 +1,22 @@
-## Hello !
-## You want to know what's possible with Watson? Try one of the courses below :)
+## Hello.
+## Do you want to know what's possible with Watson? Try one of the courses below :)
+<br>
 
+* [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
+
+<br>
+<img src="http://hack.quantumchallenge.pl/watson-jam/images/watson.gif" width="200" height="300" alt="opt"/>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 * [Decision Optimization for Watson Studio](1-DecisionOptimizationWorkshop/README.md)
 
 <br>
 <img src="http://hack.quantumchallenge.pl/watson-jam/images/optimization.gif" width="200" height="300" alt="opt"/>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-* [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
-<br>
-
-<img src="http://hack.quantumchallenge.pl/watson-jam/images/watson.gif" width="200" height="300" alt="opt"/>
-![watson](/images/watson-for-everyone.png)
 <br>
 <br>
 <br>
