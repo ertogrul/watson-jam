@@ -5,7 +5,7 @@
 * [Watson Studio on IBM Cloud](2-WatsonStudioWorkshop/README.md)   
 
 <br>
-<img src="http://hack.quantumchallenge.pl/watson-jam/images/watson.gif" width="200" height="300" alt="opt"/>
+<img src="http://github.com/ertogrul/ertogrul.github.io/images/watson.gif" width="200" height="300" alt="opt"/>
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@
 * [Decision Optimization for Watson Studio](1-DecisionOptimizationWorkshop/README.md)
 
 <br>
-<img src="http://hack.quantumchallenge.pl/watson-jam/images/optimization.gif" width="200" height="300" alt="opt"/>
+<img src="http://github.com/ertogrul/ertogrul.github.io/images/optimization.gif" width="200" height="300" alt="opt"/>
 <br>
 <br>
 <br>
