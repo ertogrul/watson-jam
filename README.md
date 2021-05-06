@@ -6,7 +6,7 @@
 * [Decision Optimization for Watson Studio](1-DecisionOptimizationWorkshop/README.md)
 
 <br>
-<img src="http://hack.quantumchallenge.pl/watson-jam/images/optimization.gif" width="100" height="200" alt="opt"/>
+<img src="http://hack.quantumchallenge.pl/watson-jam/images/optimization.gif" width="200" height="300" alt="opt"/>
 <br>
 <br>
 <br>
