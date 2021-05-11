@@ -15,6 +15,7 @@ Do you want to make decisions based on data? This is introductory crash course t
 **Part 1 (Lecture)**
 + Linear Programming Intro - 30 minutes 
   + [download lecture](https://github.com/ertogrul/ertogrul.github.io/blob/master/stuff/DO_presentation.pdf)
+  - [download lecture](../../stuff/DO_presentation.pdf)  
 
 **Part 2 (Lab 0, Lab 1, Lab 2)**
 + Review working LP model on Watson Studio - 30 minutes
