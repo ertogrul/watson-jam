@@ -30,4 +30,3 @@ Do you want to make decisions based on data? This is introductory crash course t
 
 
 ![w1-0-1](/images/w6-2.png)    
-  
