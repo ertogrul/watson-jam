@@ -20,7 +20,9 @@ Now think about what decision variables you would create. Then think about contr
 Task 1. Create a project in Watson Studio 
 
 Task 2. Use option 'Add to project', then select option 'from file' and use notebook from link below.
+
   + <a href="https://ibm.box.com/s/259l2td9tbyyv0tlferluhehx7cx9thx" download>download jupyter notebook file</a>
+  + [download jupyter notebook file](../../code/Cake Competition Problem.ipynb)
   
 
 Task 3. Run Jupyter Notebook file in Watson Studio and analyze the outcome. Try to change decision variables or minutes needed to eat torte of apple pie. See how it influences result.

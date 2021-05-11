@@ -20,6 +20,7 @@ Task 1. Create a project in Watson Studio
 
 Task 2. Use option 'Add to project', then select option 'from file' and use notebook from link below.
   + [download jupyter notebook file](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
+  + [download jupyter notebook file](../../code/balance-pasta-prod.ipynb)
 
 Task 3. Run Jupyter Notebook file in Watson Studio and analyze the outcome. Try to change decision variables or minutes needed to eat torte of apple pie. See how it influences result.
 
