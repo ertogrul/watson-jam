@@ -19,9 +19,9 @@ Prerequisites for this lab are:
   
 - [ ] Started instance of **Watson Studio** on your **IBM Cloud** account   
   
-- [ ] Notebook with Reinforcement Learning model that you can download here: [Space Invaders model](../code/space_invaders.ipynb)  
+- [ ] Notebook with Reinforcement Learning model that you can download here: [Space Invaders notebook](../../code/space_invaders.ipynb)  
 
-- [ ] Another fun notebook with model playing Pacman is here: [Pacman model](../code/space_invaders.ipynb)  
+- [ ] Another fun model playing Pacman is here: [Pacman notebook](../../code/pacman.ipynb),  [Pacman aux file](../../code/pacman.h5) 
 
 Reinforcement Learning is fast growing area of algorithms. If you want to know more about how it can be used, go here[here](https://medium.com/ibm-data-ai/reinforcement-learning-the-business-use-case-part-1-65976c745319)  
 
