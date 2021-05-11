@@ -19,9 +19,11 @@ Prerequisites for this lab are:
   
 - [ ] Started instance of **Watson Studio** on your **IBM Cloud** account   
   
-- [ ] Notebook with Reinforcement Learning model that you can download here: [RL-notebook](../code/space_invaders.ipynb)  
+- [ ] Notebook with Reinforcement Learning model that you can download here: [Space Invaders model](../code/space_invaders.ipynb)  
 
-Reinforcement Learning is fast growing area of machine learning with exiting experiments concenring life and bussiness. This scipt lets you load a notebook with simple RL model where agent is playing old Atari game Space Invaders.  
+- [ ] Another fun notebook with model playing Pacman is here: [Pacman model](../code/space_invaders.ipynb)  
+
+Reinforcement Learning is fast growing area of algorithms. If you want to know more about how it can be used, go here[here](https://medium.com/ibm-data-ai/reinforcement-learning-the-business-use-case-part-1-65976c745319)  
 
   
 > If you haven't registered to IBM Cloud or haven't started Watson Studio intance, please proceed to Preparation Lab.  
@@ -44,6 +46,5 @@ Now choose the notebook downloaded in the prerequisites section of this script a
 Open the file in Watson Stuio, apply Python environment to it and run it. Enjoy :)
 
 
-      
 # End of Reinforcement Learning Lab
 ---
