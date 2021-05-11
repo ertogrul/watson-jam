@@ -19,8 +19,9 @@ So you are running a pasta factory. Your case is a little more complicated right
 Task 1. Create a project in Watson Studio 
 
 Task 2. Use option 'Add to project', then select option 'from file' and use notebook from link below.
-  + [Cake_Competition_notebook](../../Cake Competition Problem.ipynb)
-  + [Cake Competition notebook](../../Cake Competition Problem.ipynb)
+
+  + [Pasta_Factory_Notebook](../../code/balance-pasta-prod.ipynb)
+
 
 Task 3. Run Jupyter Notebook file in Watson Studio and analyze the outcome. Try to change decision variables or minutes needed to eat torte of apple pie. See how it influences result.
 
