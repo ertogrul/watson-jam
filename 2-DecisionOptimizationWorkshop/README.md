@@ -16,6 +16,7 @@ Do you want to make decisions based on data? This is introductory crash course t
 + Linear Programming Intro - 30 minutes 
 
   - [ ] Download the lecture [here](../stuff/DO_presentation.pdf)
+  - [ ] Notebook with Reinforcement Learning model that you can download here: [Space Invaders notebook](../code/space_invaders.ipynb)  
 
 
 **Part 2 (Lab 0, Lab 1, Lab 2)**
