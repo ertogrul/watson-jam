@@ -1,6 +1,8 @@
 ## Hello.
 ## What is possible with Watson? Try one of the courses below :)
 <br>
+<br>
+<br>
 
 * [Watson Studio on IBM Cloud](1-WatsonStudioWorkshop/README.md)   
 
