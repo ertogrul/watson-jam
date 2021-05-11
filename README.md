@@ -52,7 +52,7 @@
 <br>
 <br>
 
-<img src="http://ertogrul.github.io/images/weheartit.gif" width="300" height="400" alt="opt"/>
+<img src="http://ertogrul.github.io/images/tumblr_think.gif" width="300" height="400" alt="opt"/>
 </p>
 
 
