@@ -4,7 +4,7 @@
     
 
     
-Do you want to make decisions based on data? This a sequel to the first DO course, I am happy to have you, enjoy the course.   
+Do you want to make decisions based on data? This is a sequel to the first Decision Optimization course. I am happy to have you here, enjoy the course!   
      
      
 ![w6-1](/images/w6-1.png)      

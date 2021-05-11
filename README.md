@@ -25,10 +25,10 @@
 <br>
 <br>
 
-* [Decision Optimization for Watson Studio PART II (UNDER CONSTRUCTION)](3-DecisionOptimizationWorkshopPart2/README.md)
+* [Decision Optimization for Watson Studio, PART II (UNDER CONSTRUCTION)](3-DecisionOptimizationWorkshopPart2/README.md)
 
 <br>
-<img src="http://ertogrul.github.io/images/tumblr_game.gif" width="200" height="300" alt="opt"/>
+<img src="http://ertogrul.github.io/images/tumblr_opt3.gif" width="200" height="300" alt="opt"/>
 <br>
 <br>
 <br>
