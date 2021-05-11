@@ -21,7 +21,7 @@ Task 1. Create a project in Watson Studio
 
 Task 2. Use option 'Add to project', then select option 'from file' and use notebook from link below.
 
-  + [just click here](../../Cake Competition Problem.ipynb)
+  + [Cake Competition notebook](../../Cake Competition Problem.ipynb)
 
 Task 3. Run Jupyter Notebook file in Watson Studio and analyze the outcome. Try to change decision variables or minutes needed to eat torte of apple pie. See how it influences result.
 
