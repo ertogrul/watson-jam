@@ -15,20 +15,27 @@ Do you want to make decisions based on data? This is introductory crash course t
 **Part 1 (Lecture)**
 + Linear Programming Intro - 30 minutes 
 
-  - [ ] Download the lecture [here](../stuff/DO_presentation.pdf)
-  - [ ] Notebook with Reinforcement Learning model that you can download here: [Space Invaders notebook](../code/space_invaders.ipynb)  
+  - Download the lecture [here](../stuff/DO_presentation.pdf)
+
 
 
 **Part 2 (Lab 0, Lab 1, Lab 2)**
+
 + Review working LP model on Watson Studio - 30 minutes
+
 + Preparation Lab
   + [0-PrepareDOLab/README.md](0-PrepareDOLab/README.md)
+
 + Lab1 - Cake Competition Problem
   + [1-Lab1/README.md](1-Lab1/README.md)
+
 + Lab2 - Pasta Factory Problem
   + [2-Lab2/README.md](2-Lab2/README.md)      
 
+
+
 **Part 3 (Lab 3)**
+
 + Start Decision Optimization tutorial - 60 minutes -  [just click here !!!](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-decision-optimization-ibm-watson-studio-market-campaign)
 
 
