@@ -19,7 +19,7 @@ Prerequisites for this lab are:
   
 - [ ] Started instance of **Watson Studio** on your **IBM Cloud** account   
   
-- [ ] Notebook with Reinforcement Learning model that you can download here: [RL-notebook](../space_invaders_2.ipynb)  
+- [ ] Notebook with Reinforcement Learning model that you can download here: [RL-notebook](../code/space_invaders.ipynb)  
 
 Reinforcement Learning is fast growing area of machine learning with exiting experiments concenring life and bussiness. This scipt lets you load a notebook with simple RL model where agent is playing old Atari game Space Invaders.  
 

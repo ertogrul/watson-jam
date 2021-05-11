@@ -38,6 +38,17 @@
 <br>
 <br>
 
+* [AI and Core TrainingDecision Optimization for Watson Studio, PART II (UNDER CONSTRUCTION)](3-DecisionOptimizationWorkshopPart2/README.md)
+
+<br>
+<img src="http://ertogrul.github.io/images/tumblr_opt3.gif" width="200" height="300" alt="opt"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
 
 <br>
@@ -57,4 +68,6 @@
 
 
 
-## This is the end.
+
+
+##                 The end.
