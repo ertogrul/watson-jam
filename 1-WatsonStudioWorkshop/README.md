@@ -1,11 +1,15 @@
 # Watson Studio on IBM Cloud Workshop    
     
-  
+<br> 
+<br>
 This course is meant for professionals or engineers or any kind with no data science background. The course was used by people from engineering, IT, logistics, marketing, procurement, sales, law, production, and more.    
-     
+
+<br> 
+<br>  
 ![w1-0](../images/w1-0.png)      
 
-
+<br> 
+<br>
 ## Agenda    
     
 **(2 hours in total)**  
@@ -28,6 +32,9 @@ This course is meant for professionals or engineers or any kind with no data sci
 + Q&A    
   + [4 - ExtraStuff - Reinforcement Learning on Watson Lab](4-ExtraStuffOpenAI/README.md)      
 
-
+<br> 
+<br>
+<br> 
+<br>
 ![w1-0-1](../images/w6-2.png)    
   
