@@ -6,33 +6,37 @@ Returning to the agenda page?  [CLICK HERE](../README.md)
   
 Or maybe returning to the main page? [CLICK HERE](../../README.md)  
     
-       
+<br> 
+<br>      
 
 ![w2-a](../../images/w2-a.png)  
   
   
-
+<br> 
+<br>
 First step is preparing your environment on IBM Cloud. Check the following instructions.  
-  
+<br> 
+<br>
   
 # Task 1. IBM Cloud registration  
   
 All labs are executed on the **IBM Cloud**, and prerequisites are:  
   
-- [ ] You should have **1 valid email**   
+- [ ] **1 valid email**   
   
-- [ ] Sign up to the **IBM Cloud**   
+- [ ] account on **IBM Cloud**   
   
 
 **If you already have an IBM id, go to Task 2 of this script.**  
   
-If you don't have a valid email address that you could use for cloud registration please use a temporary email service, like this: https://temp-mail.org/en/  
-The temp-mail web site (shown below) will give you a temporary email address for 10 minutes. You can use this temporaty email address just to register to IBM Cloud.   
+If you don't have an email address to use in lab get a temporary email service like this one: https://temp-mail.org/en/  
   
 ![image w1-1](../../images/w1-1.png)  
   
+
 ### Start registration  
-To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type: http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended). You will get to the following page.  
+
+Open this link: [IBM Cloud](cloud.ibm.com/registration) or type: http://cloud.ibm.com/registration in the browser (Chrome or Firefox are recommended). You will get to the following page.  
   
 ![image-w1-2](../../images/w1-2.png)  
   
@@ -73,7 +77,7 @@ Finally you should get a dashboard screen on your cloud account as shown above. 
 
 # Task 2. Create Watson Studio Instance  
   
-Write **"Watson Studio"** or just **"studio"** in the search pane on the dashboard screen of your IBM Cloud account. Click on the search pane or just wait. You should see scroll down with a Watson Studio service (the one with a lamp icon).  
+Write **"Watson Studio"** in the search pane on the dashboard screen of your IBM Cloud account. Click on the search pane or just wait. You should see scroll down with a Watson Studio service (the one with a lamp icon).  
   
 ![image-w2-1](../../images/w2-1.png)  
   

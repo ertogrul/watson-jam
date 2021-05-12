@@ -8,7 +8,7 @@ Or maybe returning to the main page? [CLICK HERE](../../README.md)
 ![image-w4-1](../../images/w4-1.png)        
     
   
-> IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if you don't it's totally OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing.   
+> IMPORTANT: Take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. 
     
       
 # Task 1. Run Reinforcement Learning model on Watson Studio  
@@ -19,16 +19,16 @@ Prerequisites for this lab are:
   
 - [ ] Started instance of **Watson Studio** on your **IBM Cloud** account   
   
-- [ ] Notebook with Reinforcement Learning model that you can download here: [Space Invaders notebook](../../code/space_invaders.ipynb)  
+- [ ] One of two notebooks with Reinforcement Learning model: 
 
-- [ ] Another fun reinforcement learning model (playing Pacman) is here: [Pacman notebook](../../code/pacman.ipynb),  [Pacman aux file](../../code/pacman.h5) 
+    + This option requires two files: [Pacman notebook](../../code/pacman.ipynb), [Pacman aux file](../../code/pacman.h5)
+
+    + [Space Invaders notebook](../../code/space_invaders.ipynb)  
 
 
-Reinforcement Learning is fast growing area of algorithms. If you want to know more about how it can be used, go here  [here](https://medium.com/ibm-data-ai/reinforcement-learning-the-business-use-case-part-1-65976c745319)  
 
-  
-> If you haven't registered to IBM Cloud or haven't started Watson Studio intance, please proceed to Preparation Lab.  
-  
+Reinforcement Learning is fast growing area of research. It also gains more and more use cases. If you want to know more, go here  [here](https://medium.com/ibm-data-ai/reinforcement-learning-the-business-use-case-part-1-65976c745319)  
+
 
 Create new project in Watson Studio or open existing one. Click 'Add to Project' button.
 

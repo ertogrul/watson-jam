@@ -8,12 +8,12 @@ Or maybe returning to the main page? [CLICK HERE](../../README.md)
 ![image-w3-1](../../images/w3-1.png)
   
     
-> IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if you don't it's totally OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing. 
+> IMPORTANT: Take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in.
 
 
 
 
-# Task 1. Creating space in your organization on IBM Cloud account.
+# Task 1. Create space in your organization on IBM Cloud account.
 
 Prerequisites for this lab are:
 
@@ -21,12 +21,10 @@ Prerequisites for this lab are:
 
 - [ ] Started instance of **Watson Studio** on your **IBM Cloud** account 
 
-IBM Cloud has several demonstration apps that you just need to find and start. Visual Recognition app will give you a chance to see how deployed model is connecting with cloud native www application. You can explore and tinker with it, this is what this app was created for :)  
+IBM Cloud has several demonstration apps that you just need to find and start. Visual Recognition app is one them. It will demonstrate you how Watson services are used.
 
 
-> If you haven't registered to IBM Cloud or haven't started Watson Studio instance, please proceed to Preparation Lab.
-
-When logged to IBM Cloud account navigate to Manage - Account menu in the top right corner of the screen.  
+When logged in to IBM Cloud account navigate to Manage - Account menu in the top right corner of the screen.  
 
   
  ![image-w3-1-1](../../images/w3-1-1.png)      
@@ -37,14 +35,14 @@ Now click on Cloud Foundry orgs square in mid-screen.
   
  ![image-w3-1-2](../../images/w3-1-2.png)    
   
-Next click on your email address (visible on picture below) to enter your organisation (at this moment this is the only org on your IBM Cloud account).  
+Next click on your email address (visible on picture below) to enter your organization (at this moment this is the only org on your IBM Cloud account).  
 
-> Organisations and spaces are a way to organise applications based on cloud foundry. Oragnization can represent a department or a company. Within the organisation you can create many spaces. Space can represent apps, projects.
+> Organizations and spaces are a way to organise applications based on cloud foundry. Oragnization can represent a department or a company. Within the organisation you can create many spaces. Space can represent apps, projects.
 
     
  ![image-w3-1-3](../../images/w3-1-3.png)         
     
-In your organisation there is only one space: 'dev'. Create another space using 'Add Space' button on the upper right.  
+In your organization there is only one space: 'dev'. Create another space using 'Add Space' button on the upper right.  
     
  ![image-w3-1-4](../../images/w3-1-4.png)      
     
@@ -103,8 +101,8 @@ Now you need to click 'New' button in the part 'IBM Cloud API Key'. You will get
 You don't have to save this API key. For simplicity just click OK button and API key will be created for you.    
   
 
-Leave memory allocation as it is.       
-Now you need to choose again the region of your organization. When you do so, your spaces will show up like on the screen below. Choose newly created space and hit the 'Next' button.    
+Leave memory allocation as they are.       
+Now you need to choose again the region of your organization, and just created space. Now hit the 'Next' button.    
       
  ![image-w3-10](../../images/w3-10.png)      
       
@@ -116,8 +114,7 @@ You are going back to applicatoion console page when a lot of things will happen
       
  ![image-w3-12](../../images/w3-12.png)      
    
- Now you can enjoy how the working model analyzes photos. You can upload your custom image and find our that there are many classifiers in the model that try to recognize what is presented on the picture.  
- Explore application console and application itself.  
+ Now you can enjoy how the trained visual recognition model is analyzing photos. You can upload your custom images and see which classifiers are triggered. Explore the application console and application itself.  
   
       
  ![image-w3-14](../../images/w3-14.png)      
