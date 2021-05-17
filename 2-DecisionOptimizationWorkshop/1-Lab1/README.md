@@ -16,7 +16,10 @@ Or maybe returning to the home page? [CLICK HERE](../../README.md)
 
 Meet Max :) Max is attending Cake Competition and he wants to win!
 He can choose to eat tortes that (it takes 2 minutes to consume 1 torte) or apple pies (3 minutes to eat one). For each eaten torte Max will get 4 points and for each eaten apple pie - 5 points. 
-Now think about what decision variables you could create. Then think about contraints and write down your thoughts. After that just download jupyter notebook and see how the problem is solved.
+Now think about what decision variables you could create. 
+Then think about contraints and write down your thoughts. 
+After that just download jupyter notebook and see how the problem is solved.
+
 
 Task 1. Create a project in Watson Studio 
 
